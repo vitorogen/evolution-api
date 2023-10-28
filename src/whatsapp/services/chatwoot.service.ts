@@ -211,7 +211,7 @@ export class ChatwootService {
         '123456',
         inboxId,
         false,
-        'EvolutionAPI',
+        'QR Code Bot',
         'https://evolution-api.com/files/evolution-api-favicon.png',
       )) as any);
 
